@@ -15,7 +15,7 @@ Create a C# or F# Console application which takes a monetary value as input and 
  
 On running the application, I type £3,496,002.08 
  
-The console responds - “three million, four hundred and ninety-six thousand and two pounds and eight pence” 
+The console responds - “three million four hundred and ninety-six thousand and two pounds and eight pence” 
 
  
 ### Acceptance Criteria 
