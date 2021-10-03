@@ -1,0 +1,12 @@
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\bin\Debug\net5.0\FooBar.Libraries.TextGeneration.deps.json
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\bin\Debug\net5.0\FooBar.Libraries.TextGeneration.dll
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\bin\Debug\net5.0\ref\FooBar.Libraries.TextGeneration.dll
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\bin\Debug\net5.0\FooBar.Libraries.TextGeneration.pdb
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.csprojAssemblyReference.cache
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.AssemblyInfoInputs.cache
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.AssemblyInfo.cs
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.csproj.CoreCompileInputs.cache
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.dll
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\ref\FooBar.Libraries.TextGeneration.dll
+D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.pdb

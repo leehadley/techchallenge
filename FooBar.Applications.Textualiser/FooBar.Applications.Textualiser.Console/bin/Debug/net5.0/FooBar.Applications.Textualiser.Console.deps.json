@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FooBar.Applications.Textualiser.Console/1.0.0": {
+        "dependencies": {
+          "FooBar.Libraries.TextGeneration": "1.0.0"
+        },
+        "runtime": {
+          "FooBar.Applications.Textualiser.Console.dll": {}
+        }
+      },
+      "FooBar.Libraries.TextGeneration/1.0.0": {
+        "runtime": {
+          "FooBar.Libraries.TextGeneration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FooBar.Applications.Textualiser.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FooBar.Libraries.TextGeneration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
