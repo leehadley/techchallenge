@@ -17,8 +17,16 @@ namespace FooBar.Applications.Textualiser.Console
                 userInput = RequestInput();
                 if (!string.IsNullOrEmpty(userInput) && userInput.ToLower() != "x")
                 {
-                    System.Console.WriteLine(textualiser.TextualiseDecimalAsString(userInput));
-                    System.Console.WriteLine();
+                    try
+                    {
+                        System.Console.WriteLine(textualiser.TextualiseDecimalAsString(userInput));
+                        System.Console.WriteLine();
+                    }
+                    catch
+                    {
+                        System.Console.WriteLine("We are sorry, something went wrong and your value could not be converted into text. Please enter another value that is between 0 and 999,999,999.00 or enter x to quit.");
+                        System.Console.WriteLine();
+                    }
                 }
             }
 
@@ -42,7 +50,7 @@ namespace FooBar.Applications.Textualiser.Console
             catch (Exception exception)
             {
                 userInput = null;
-                System.Console.WriteLine("We are sorry, something went wrong and your value could not be converted into text. Please enter another value or enter x to quit.");
+                System.Console.WriteLine("We are sorry, something went wrong and your value could not be converted into text. Please enter another value that is between 0 and 999,999,999.00 or enter x to quit.");
                 //I would usually log the exception somewhere e.g., event log, file, db, external api etc.
                 //and include the input values and stack trace (with any inner exceptions) to aid debugging.
             }

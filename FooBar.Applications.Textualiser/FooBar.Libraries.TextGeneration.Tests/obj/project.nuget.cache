@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5t9RAsHtOgBvsUZDqilzgKBxzCAdethFdCa8NY15v/hKvlUfoDcwvbF7XPWcQmITDNIj2A3559bqnFRMusZBLA==",
+  "dgSpecHash": "UhBAvjMPFWLXFDP2QxoYqmE9vabZL6CRIdADQtcZGkdsnhauQAewUY+duyJqFHHB8aPobg1gfF8GdjDuG2IQMg==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Conduant\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration.Tests\\FooBar.Libraries.TextGeneration.Tests.csproj",
+  "projectFilePath": "D:\\Development\\github\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration.Tests\\FooBar.Libraries.TextGeneration.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leedh\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\leedh\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

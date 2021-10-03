@@ -49,6 +49,21 @@ namespace FooBar.Libraries.TextGeneration.Tests
         }
 
         [TestMethod]
+        public void CanOutputTens()
+        {
+            //Arrange
+            Textualiser textualiser = new Textualiser();
+            string inputValue = "£25.18";
+            string expectResult = "twenty five pounds and ten eight pence";
+            //Act
+            string result = textualiser.TextualiseDecimalAsString(inputValue);
+
+            //Assert
+            Assert.AreEqual(expectResult, result);
+        }
+
+
+        [TestMethod]
         public void CanOutputUnits()
         {
             //Arrange

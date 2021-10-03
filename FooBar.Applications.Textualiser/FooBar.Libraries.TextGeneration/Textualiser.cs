@@ -212,8 +212,8 @@ namespace FooBar.Libraries.TextGeneration
                 }
             }
 
-            if (parsedValue > 1000000000) {
-                throw new ArgumentException($"Invalid input, value must be less than 1000000000, parsed value: [{parsedValue}]");
+            if (parsedValue > 1000000000 || parsedValue < 0) {
+                throw new ArgumentException($"Invalid input, value must be less than 1000000000 and non-negative, parsed value: [{parsedValue}]");
             }
 
             return parsedValue;

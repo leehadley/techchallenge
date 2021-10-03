@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Conduant\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration\\FooBar.Libraries.TextGeneration.csproj",
+      "projectUniqueName": "D:\\Development\\github\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration\\FooBar.Libraries.TextGeneration.csproj",
       "projectName": "FooBar.Libraries.TextGeneration",
-      "projectPath": "D:\\Development\\Conduant\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration\\FooBar.Libraries.TextGeneration.csproj",
+      "projectPath": "D:\\Development\\github\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration\\FooBar.Libraries.TextGeneration.csproj",
       "packagesPath": "C:\\Users\\leedh\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Conduant\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration\\obj\\",
+      "outputPath": "D:\\Development\\github\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

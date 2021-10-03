@@ -10,3 +10,15 @@ D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGen
 D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.dll
 D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\ref\FooBar.Libraries.TextGeneration.dll
 D:\Development\Conduant\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.pdb
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\bin\Debug\net5.0\FooBar.Libraries.TextGeneration.deps.json
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\bin\Debug\net5.0\FooBar.Libraries.TextGeneration.dll
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\bin\Debug\net5.0\ref\FooBar.Libraries.TextGeneration.dll
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\bin\Debug\net5.0\FooBar.Libraries.TextGeneration.pdb
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.csprojAssemblyReference.cache
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.AssemblyInfoInputs.cache
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.AssemblyInfo.cs
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.csproj.CoreCompileInputs.cache
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.dll
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\ref\FooBar.Libraries.TextGeneration.dll
+D:\Development\github\FooBar.Applications.Textualiser\FooBar.Libraries.TextGeneration\obj\Debug\net5.0\FooBar.Libraries.TextGeneration.pdb

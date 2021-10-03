@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KyzrMHYcKxFrusoxtL6P+3nUgnlHJgS8kNKLj+P2Ti++brgWo1JXkU5HPivI4OtY9piCfHTfN9bzB9maAQ0y4Q==",
+  "dgSpecHash": "EAIS2iOkPWsoVmH9HENeoIanrWZ51G2S0ieakt3l1X59WC0kdWC9Hvz+9YL7HpSw2V5GrzGZ0XcmpWSVDnCFzg==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Conduant\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration\\FooBar.Libraries.TextGeneration.csproj",
+  "projectFilePath": "D:\\Development\\github\\FooBar.Applications.Textualiser\\FooBar.Libraries.TextGeneration\\FooBar.Libraries.TextGeneration.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
